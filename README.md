@@ -1,3 +1,9 @@
+ORIGINAL BAD ACTOR REPOSITORY: 
+- https://github.com/Dev2crop-repo/AIHealthcare
+- https://github.com/Dev2crop-repo/
+- 
+-------
+
 # MEDIRA
 
 A medical assistance platform powered by AI.
